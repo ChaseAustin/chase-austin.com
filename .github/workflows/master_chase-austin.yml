@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'chase-austin'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_9ed370d7079e4b7a9e0d31f2e842463c }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d38cce0ed1794564a5b6f3a613754958 }}
